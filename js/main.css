@@ -1,0 +1,59 @@
+body {
+  
+
+  
+ 
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  text-align: center;
+  text-decoration-color: rgb(0, 0, 0);
+  border-color: rgb(0, 0, 0);
+
+}
+
+#text {
+  align-self: center;
+  text-align: center;
+  align-content: center;
+
+}
+
+header {
+  background-color: rgb(232, 233, 233);
+  color: rgb(0, 0, 0);
+  width: 100%;
+  text-align: center;
+  border-color: rgb(0, 0, 0);
+  font-weight: bold;
+}
+
+.navbar {
+  word-spacing: 0.2em;
+  text-align: center;
+  background-color: rgb(12, 114, 231);
+}
+.header h1 {
+  font-size: 50px;
+}
+
+
+
+
+
+#titleh {
+  font-size: 18px;
+  font-weight: bold;
+
+}
+
+footer {
+  background-color: rgb(12, 114, 231);
+  color: rgb(0, 0, 0);
+  width: 100%;
+  text-align: center;
+  text-decoration-color: rgb(0, 0, 0);
+  border-color: crimson;
+
+}
+
+
